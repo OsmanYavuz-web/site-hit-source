@@ -1,0 +1,12 @@
+c:\users\_dangerousman\documents\visual studio 2013\Projects\site-hit-source\Site Hit\bin\Debug\Site Hit.exe.config
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\obj\Debug\Site Hit.csprojResolveAssemblyReference.cache
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\obj\Debug\Site_Hit.Form1.resources
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\obj\Debug\Site_Hit.Properties.Resources.resources
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\obj\Debug\Site Hit.csproj.GenerateResource.Cache
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\bin\Debug\Site Hit.exe
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\bin\Debug\Site Hit.pdb
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\bin\Debug\HtmlAgilityPack.dll
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\bin\Debug\HtmlAgilityPack.xml
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\obj\Debug\Site Hit.exe
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\site-hit-source\Site Hit\obj\Debug\Site Hit.pdb
